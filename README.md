@@ -4,7 +4,7 @@ Bad news that `futurkk` has deleted the script from the repository `Potato`. I, 
 **Further development take place in this dedicated repository.**
 
 # 迁移
-将链接`#`前全部替换为 `https://raw.githubusercontent.com/qwerzl/rename.js/main/rename.js` 即可
+将链接`#`前全部替换为https://raw.githubusercontent.com/Autlin/rename.js/main/rename.js即可
 
 # 使用方式：
 sub-store脚本处理添加链接：
